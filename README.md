@@ -1,4 +1,4 @@
 # WaveIOS
 API for IOS apps
 
-More will be added
+[![Build Status](https://travis-ci.org/slimshadeey1/WaveIOS.svg?branch=master)](https://travis-ci.org/slimshadeey1/WaveIOS)
