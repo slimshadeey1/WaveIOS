@@ -1,1 +1,4 @@
 language: objective-c
+notifications:
+  slack:
+    secure: aPvlUg4VrFrEP8SaNi3sOtZm7l80VRU1VDkASybuOxlMtCdCCIS4nNV5gAOdxFLVEcGh9e7xkWLSE86eGZHAqIDzLKsG5ELk36KL0CvWYW2iQdHBW8BuEqOfxWkfvUyXl63JU1zmXE7IkQSWuQHTBucfFHMKdQUCZz8hVSFWKn8=
