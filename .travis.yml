@@ -2,3 +2,10 @@ language: objective-c
 notifications:
   slack:
     secure: aPvlUg4VrFrEP8SaNi3sOtZm7l80VRU1VDkASybuOxlMtCdCCIS4nNV5gAOdxFLVEcGh9e7xkWLSE86eGZHAqIDzLKsG5ELk36KL0CvWYW2iQdHBW8BuEqOfxWkfvUyXl63JU1zmXE7IkQSWuQHTBucfFHMKdQUCZz8hVSFWKn8=
+deploy:
+  provider: releases
+  api_key:
+    secure: e+H5zToL+fc0YmEpCcelEUrM1p+RfSGhtFnbg5P3jbUbjD1JWf5bK5I1rfg/2e7A9MUGbYt2fuLdyvTaU06R5MwdnQGAlWj8iMjwkuFyoB5HC7upcz0wa3LOMASJXKDWqf35aBbJfJr6gwXtD6Xsjm+kyt0t3Kkv/7v7pHeWfZE=
+  file: Wave.framework
+  on:
+    repo: slimshadeey1/WaveIOS
