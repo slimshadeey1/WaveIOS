@@ -1,7 +1,7 @@
 language: objective-c
 notifications:
   slack:
-    secure: aPvlUg4VrFrEP8SaNi3sOtZm7l80VRU1VDkASybuOxlMtCdCCIS4nNV5gAOdxFLVEcGh9e7xkWLSE86eGZHAqIDzLKsG5ELk36KL0CvWYW2iQdHBW8BuEqOfxWkfvUyXl63JU1zmXE7IkQSWuQHTBucfFHMKdQUCZz8hVSFWKn8=
+    secure: bxLxr+k0ueYnTv98re+JpbNJFRendC6IxBf5G58F5bnLYFHsZ18Qzs8iAK38BRBHqgr/n6hrFFMcVbV8f4kuxgpV1Ta5t5cRsE9DqzjZ7/kyfifGSAoqoclI4yh/o4IJUxDLTLINvsILDYV1gqpaQ1kmd7kUjh1F6s/sxi5tlyU=
 deploy:
   provider: releases
   api_key:
